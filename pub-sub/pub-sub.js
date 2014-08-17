@@ -24,7 +24,7 @@ window.pubsub = {};
             len = subscribers ? subscribers.length : 0;
 
         while (len--) {
-            subscribers[len].func(this.topics, args);
+            subscribers[len].func( topic, args);
         }
 
         return this;
