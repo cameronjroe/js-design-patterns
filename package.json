@@ -1,0 +1,19 @@
+{
+  "name": "js-design-patterns",
+  "version": "0.1.0",
+  "description": "Javascript design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronjroe/js-design-patterns.git"
+  },
+  "author": "Cameron J Roe <cameronjroe@gmail.com> (http://cameronjroe.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronjroe/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/cameronjroe/js-design-patterns#readme"
+}
